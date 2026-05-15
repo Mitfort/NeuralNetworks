@@ -1,0 +1,6 @@
+*.pth
+*.pdf
+miniCAFA/
+runs/
+data/
+processed_data/

@@ -1,0 +1,45 @@
+Trial 10: Value (mean val loss) = 0.46871532052755355
+Hyperparameters:
+  lr: 0.007719837726487726
+  n_hidden: 3
+  hidden_layer_0: 32
+  hidden_layer_1: 64
+  hidden_layer_2: 64
+  dropout: 0.10832470289314136
+
+Trial 12: Value (mean val loss) = 0.4698415532708168
+Hyperparameters:
+  lr: 0.009087879930379007
+  n_hidden: 3
+  hidden_layer_0: 32
+  hidden_layer_1: 64
+  hidden_layer_2: 64
+  dropout: 0.10600343749126676
+
+Trial 2: Value (mean val loss) = 0.4729883477091789
+Hyperparameters:
+  lr: 0.006822097273018109
+  n_hidden: 3
+  hidden_layer_0: 32
+  hidden_layer_1: 64
+  hidden_layer_2: 256
+  dropout: 0.135569551793914
+
+Trial 11: Value (mean val loss) = 0.49100507646799085
+Hyperparameters:
+  lr: 0.00882596188477088
+  n_hidden: 3
+  hidden_layer_0: 32
+  hidden_layer_1: 64
+  hidden_layer_2: 64
+  dropout: 0.10156117175175336
+
+Trial 6: Value (mean val loss) = 0.5194613054394722
+Hyperparameters:
+  lr: 0.0034919212291396164
+  n_hidden: 3
+  hidden_layer_0: 32
+  hidden_layer_1: 128
+  hidden_layer_2: 32
+  dropout: 0.26614188536197503
+
